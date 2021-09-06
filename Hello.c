@@ -3,8 +3,6 @@ void main(){
 
 printf("HELLO WORLD");
 printf("Changes made after first commit");
-printf("Changes made after second commit");
-printf("Changes made after third commit");
 }
 
 
